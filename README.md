@@ -1,14 +1,12 @@
 # My Portfolio
+
 Welcome to my portfolio! This project showcases my skills, projects, and experiences as a web developer.
 
 ### Weblink: [Live Website](https://royshlomochen.netlify.app/)
-## Some Images:
-<img width="450px;" src="https://github.com/Roychen651/RoyChen-Portfolio-React/blob/main/5.png?raw=true"/>
-<img width="450px;" src="https://github.com/Roychen651/RoyChen-Portfolio-React/blob/main/6.png?raw=true"/>
-<img width="450px;" src="https://github.com/Roychen651/RoyChen-Portfolio-React/blob/main/7.png?raw=true"/>
-<img width="450px;" src="https://github.com/Roychen651/RoyChen-Portfolio-React/blob/main/8.png?raw=true"/>
-<img width="450px;" src="https://github.com/Roychen651/RoyChen-Portfolio-React/blob/main/9.png?raw=true"/>
 
+## Some Images:
+
+<img width="450px;" src="https://github.com/Roychen651/RoyChen-Portfolio-React/blob/main/5.png?raw=true"/> <img width="450px;" src="https://github.com/Roychen651/RoyChen-Portfolio-React/blob/main/6.png?raw=true"/> <img width="450px;" src="https://github.com/Roychen651/RoyChen-Portfolio-React/blob/main/7.png?raw=true"/> <img width="450px;" src="https://github.com/Roychen651/RoyChen-Portfolio-React/blob/main/8.png?raw=true"/> <img width="450px;" src="https://github.com/Roychen651/RoyChen-Portfolio-React/blob/main/9.png?raw=true"/>
 
 ## Table of Contents
 - [Introduction](#introduction)
