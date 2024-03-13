@@ -9,7 +9,7 @@ export const Bio = {
   "Passionate problem solver with strong interpersonal skills and a knack for tech challenges. Proactive, adaptable, and eager to contribute. Constantly learning and dedicated to delivering high-quality results. Excited about new opportunities to further develop skills.",
   github: "https://github.com/Roychen651",
   resume:
-    "https://drive.google.com/file/d/1lDtQg6Db8RqR_upc8qSX_2C_TfejgTnB/view?usp=drive_link",
+    "https://drive.google.com/file/d/1aybq8jOlUrvnQZCXh5Ctcu7Rh3yw_sbV/view?usp=drive_link",
   linkedin: "https://www.linkedin.com/in/roychen651/",
   insta : "https://www.instagram.com/roychen.97/",
   twitter : "https://twitter.com/roychen651"
