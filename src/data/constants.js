@@ -9,7 +9,7 @@ export const Bio = {
   "Passionate problem solver with strong interpersonal skills and a knack for tech challenges. Proactive, adaptable, and eager to contribute. Constantly learning and dedicated to delivering high-quality results. Excited about new opportunities to further develop skills.",
   github: "https://github.com/Roychen651",
   resume:
-    "https://drive.google.com/file/d/1aybq8jOlUrvnQZCXh5Ctcu7Rh3yw_sbV/view?usp=drive_link",
+    "https://drive.google.com/drive/folders/1b6qh4Z1VtPw5i-hpNvI8PhRyn8pjNdJR",
   linkedin: "https://www.linkedin.com/in/roychen651/",
   insta : "https://www.instagram.com/roychen.97/",
   twitter : "https://twitter.com/roychen651"
@@ -185,7 +185,7 @@ export const education = [
 
 export const projects = [
   {
-    id: 11,
+    id: 0,
     title: "moveEase",
     date: "May 2023 - June 2023",
     description:
@@ -203,7 +203,7 @@ export const projects = [
     webapp: "https://github.com/Roychen651/moveEase",
   },
   {
-    id: 9,
+    id: 1,
     title: "Cost - Web Frontend Application",
     date: "Jan 2024 - Feb 2024",
     description:
@@ -222,7 +222,7 @@ export const projects = [
     webapp: "https://cost-webapplication-frontend.onrender.com/",
   },
   {
-    id: 0,
+    id: 2,
     title: "Simon Game",
     date: "Jan 2024 - Jan 2024",
     description:
@@ -241,7 +241,7 @@ export const projects = [
     webapp: "https://roychen651.github.io/Simon-Game-JS-Project/",
   },
   {
-    id: 1,
+    id: 3,
     title: "Drum kit Website",
     date: "Jan 2024 - Jan 2024",
     description:
@@ -260,7 +260,7 @@ export const projects = [
     webapp: "https://drum-kit-website.onrender.com",
   },
   {
-    id: 2,
+    id: 4,
     title: "The Three Holy Funds Website",
     date: "Jan 2024 - Feb 2024",
     description:
@@ -279,7 +279,7 @@ export const projects = [
     webapp: "https://the-three-holy-funds-balance-calculator-1pis.onrender.com/",
   },
   {
-    id: 3,
+    id: 5,
     title: "Java Script Calculator",
     date: "Dec 2023 - Dec 2023",
     description:
@@ -297,7 +297,7 @@ export const projects = [
     webapp: "https://roychen651.github.io/JS-Calculator/",
   },
   {
-    id: 10,
+    id: 6,
     title: "The Blacklist Cardview Android App",
     date: "Jan 2024 - Jan 2024",
     description:
@@ -310,7 +310,7 @@ export const projects = [
     webapp: "https://github.com/Roychen651/The-Blacklist-CardView-App",
   },
   {
-    id: 4,
+    id: 7,
     title: "Calculator Android App",
     date: "Dec 2023",
     description:
@@ -323,7 +323,7 @@ export const projects = [
     webapp: "https://github.com/Roychen651/CalculatorAndroidApp",
   },
   {
-    id: 5,
+    id: 8,
     title: "Real Estate - Data Science Project",
     date: "Jan 2023 - Mar 2023",
     description:
@@ -336,7 +336,7 @@ export const projects = [
     webapp: "https://github.com/Roychen651/DB-Project---Real-Eastate-Investment-Portugal",
   },
   {
-    id: 6,
+    id: 9,
     title: "Text Analysis - Machine Learning Project",
     date: "Aug 2023",
     description:
@@ -347,6 +347,32 @@ export const projects = [
     category: "machine learning",
     github: "https://github.com/Roychen651/Text-Anylsis-ML",
     webapp: "https://github.com/Roychen651/Text-Anylsis-ML",
+  },
+  {
+    id: 10,
+    title: "Reverse engineering and malware ",
+    date: "Jan 2023",
+    description:
+      "The goal of the project is an investigation of the Zeus malware and its analysis.",
+    image:
+      "https://i0.wp.com/www.intelecis.com/wp-content/blogs.dir/743/files/2023/01/Zeus-Malware-f.png?fit=1920%2C800&ssl=1",
+    tags: ["Reverse Engineering", "Malware Analysis"],
+    category: "machine learning",
+    github: "https://drive.google.com/drive/folders/1nLHIfwKFh2vE1puV_dn0j9jJcV8WIl-X",
+    webapp: "https://drive.google.com/drive/folders/1nLHIfwKFh2vE1puV_dn0j9jJcV8WIl-X",
+  },
+  {
+    id: 11,
+    title: "Recipe App Android",
+    date: "March 2023",
+    description:
+      "The main objectives of this system are: Efficient Recipe Management: Easily search and find your stored recipes by categories or ingredients.   Ingredient-Based Recipe Search: Find recipes that match the ingredients you have available in your kitchen. ",
+    image:
+      "https://raw.githubusercontent.com/Roychen651/Recipes-Android-App/main/Pictures/logo%20.png",
+    tags: ["Android Studio", "Java"],
+    category: "android app",
+    github: "https://github.com/Roychen651/Recipes-Android-App",
+    webapp: "https://github.com/Roychen651/Recipes-Android-App",
   },
 ];
 
